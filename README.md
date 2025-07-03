@@ -31,12 +31,7 @@ La aplicación está desarrollada con **Angular** en el frontend, mientras que e
    cd <06_burguer_queen>
    ```
 
-3. Levanta los contenedores con Docker Compose:  
-   ```bash
-   docker compose up --build
-   ```
-
-4. Instala las dependencias del frontend:  
+3. Instala las dependencias del frontend:  
    ```bash
    cd 06_burguer_queen
    npm install
@@ -47,12 +42,12 @@ La aplicación está desarrollada con **Angular** en el frontend, mientras que e
    docker-compose up --build
    ```
 
-6. Ejecuta el servidor de desarrollo de Angular:  
+5. Ejecuta el servidor de desarrollo de Angular:  
    ```bash
    ng serve
    ```
 
-7. Accede a la aplicación frontend en tu navegador en:  
+6. Accede a la aplicación frontend en tu navegador en:  
    `http://localhost:4200`
 
 ---
