@@ -42,12 +42,17 @@ La aplicación está desarrollada con **Angular** en el frontend, mientras que e
    npm install
    ```
 
-5. Ejecuta el servidor de desarrollo de Angular:  
+4. Levantar con docker:  
+   ```bash
+   docker-compose up --build
+   ```
+
+6. Ejecuta el servidor de desarrollo de Angular:  
    ```bash
    ng serve
    ```
 
-6. Accede a la aplicación frontend en tu navegador en:  
+7. Accede a la aplicación frontend en tu navegador en:  
    `http://localhost:4200`
 
 ---
